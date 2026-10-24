@@ -1,0 +1,30 @@
+{
+  "settings": "Cài đặt",
+  "theme": "Giao diện",
+  "language": "Ngôn ngữ",
+  "change-theme": "Đổi giao diện",
+  "change-language": "Đổi ngôn ngữ",
+  "logout": "Đăng xuất",
+  "dark": "Tối",
+  "light": "Sáng",
+  "system": "Theo hệ thống",
+  "version": "Phiên bản",
+  "create-owner": {
+    "enter-email": "Nhập email",
+    "enter-first-name": "Nhập tên",
+    "enter-last-name": "Nhập họ",
+    "enter-password": "Nhập mật khẩu",
+    "confirm-password": "Xác nhận mật khẩu",
+    "select-purpose": "Chọn mục đích sử dụng",
+    "subscribe-to-email-updates": "Đăng ký nhận email cập nhật",
+    "create-owner": "Tạo chủ sở hữu",
+    "purpose-personal-project": "Quản lý một dự án cá nhân",
+    "purpose-internal-company": "Quản lý một nhu cầu nội bộ của công ty",
+    "purpose-attract-businesses": "Thu hút thêm doanh nghiệp mới",
+    "success": "Thành công",
+    "owner-created": "Đã tạo chủ sở hữu thành công",
+    "something-went-wrong": "Rất tiếc! Đã xảy ra lỗi.",
+    "initial-configuration-steps": "Các bước cấu hình ban đầu",
+    "fill-out-form": "Vui lòng điền vào biểu mẫu sau để hoàn tất việc cài đặt"
+  }
+}
